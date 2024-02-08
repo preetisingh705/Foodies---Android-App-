@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.preetumajorproject.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+    <fragment
+        android:id="@+id/nav_registration"
+        android:name="com.example.preetumajorproject.ui.RegistrationFragment"
+        android:label="@string/menu_registration"
+        tools:layout="@layout/fragment_registration" />
+    <fragment
+        android:id="@+id/nav_login"
+        android:name="com.example.preetumajorproject.ui.LoginFragment"
+        android:label="@string/menu_login"
+        tools:layout="@layout/fragment_login" />
+    <fragment
+        android:id="@+id/nav_addservices"
+        android:name="com.example.preetumajorproject.ui.AddServicesFragment"
+        android:label="@string/menu_addservices"
+        tools:layout="@layout/fragment_add_services" />
+    <fragment
+        android:id="@+id/nav_servicesmanagement"
+        android:name="com.example.preetumajorproject.ui.ServiceManagementFragment"
+        android:label="@string/menu_servicesmanagement"
+        tools:layout="@layout/fragment_service_management" />
+    <fragment
+        android:id="@+id/nav_myprofile"
+        android:name="com.example.preetumajorproject.ui.MyProfileFragment"
+        android:label="@string/menu_myprofile"
+        tools:layout="@layout/fragment_my_profile" />
+    <fragment
+        android:id="@+id/nav_logout"
+        android:name="com.example.preetumajorproject.ui.LogoutFragment"
+        android:label="@string/menu_logout"
+        tools:layout="@layout/fragment_logout" />
+    <!--add location of class file and xml file of fragmnet-->
+    <fragment
+        android:id="@+id/nav_changepassword"
+        android:name="com.example.preetumajorproject.ui.ChangePasswordFragment"
+        android:label="@string/menu_changepassword"
+        tools:layout="@layout/fragment_change_password" />
+</navigation>
