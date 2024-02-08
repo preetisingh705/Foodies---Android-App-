@@ -1,0 +1,79 @@
+com/example/preetumajorproject/ui/LoginFragment.java
+ com.example.preetumajorproject.ui.LoginFragment
+com/example/preetumajorproject/adminregistration.java
+ com.example.preetumajorproject.adminregistration
+ com.example.preetumajorproject.adminregistration$1
+ com.example.preetumajorproject.adminregistration$2
+ com.example.preetumajorproject.adminregistration$3
+ com.example.preetumajorproject.adminregistration$4
+ com.example.preetumajorproject.adminregistration$5
+ com.example.preetumajorproject.adminregistration$5$1
+com/example/preetumajorproject/StudentLogin.java
+ com.example.preetumajorproject.StudentLogin
+ com.example.preetumajorproject.StudentLogin$1
+ com.example.preetumajorproject.StudentLogin$2
+com/example/preetumajorproject/ui/AddServicesFragment.java
+ com.example.preetumajorproject.ui.AddServicesFragment
+ com.example.preetumajorproject.ui.AddServicesFragment$1
+ com.example.preetumajorproject.ui.AddServicesFragment$2
+ com.example.preetumajorproject.ui.AddServicesFragment$3
+ com.example.preetumajorproject.ui.AddServicesFragment$4
+ com.example.preetumajorproject.ui.AddServicesFragment$4$1
+com/example/preetumajorproject/ui/RegistrationFragment.java
+ com.example.preetumajorproject.ui.RegistrationFragment
+com/example/preetumajorproject/ui/gallery/GalleryFragment.java
+ com.example.preetumajorproject.ui.gallery.GalleryFragment
+com/example/preetumajorproject/ui/ServiceManagementFragment.java
+ com.example.preetumajorproject.ui.ServiceManagementFragment
+com/example/preetumajorproject/MainActivity.java
+ com.example.preetumajorproject.MainActivity
+ com.example.preetumajorproject.MainActivity$1
+ com.example.preetumajorproject.MainActivity$2
+ com.example.preetumajorproject.MainActivity$3
+com/example/preetumajorproject/ServiceList.java
+ com.example.preetumajorproject.ServiceList
+com/example/preetumajorproject/dbadapter.java
+ com.example.preetumajorproject.dbadapter
+ com.example.preetumajorproject.dbadapter$myviewholder
+com/example/preetumajorproject/StudentRegister.java
+ com.example.preetumajorproject.StudentRegister
+ com.example.preetumajorproject.StudentRegister$1
+ com.example.preetumajorproject.StudentRegister$2
+ com.example.preetumajorproject.StudentRegister$3
+ com.example.preetumajorproject.StudentRegister$4
+shop_list.java
+ shop_list
+com/example/preetumajorproject/ForgotPassword.java
+ com.example.preetumajorproject.ForgotPassword
+ com.example.preetumajorproject.ForgotPassword$1
+com/example/preetumajorproject/ShopList.java
+ com.example.preetumajorproject.ShopList
+com/example/preetumajorproject/dbmodel.java
+ com.example.preetumajorproject.dbmodel
+com/example/preetumajorproject/ui/ChangePasswordFragment.java
+ com.example.preetumajorproject.ui.ChangePasswordFragment
+ com.example.preetumajorproject.ui.ChangePasswordFragment$1
+com/example/preetumajorproject/AdminLogin.java
+ com.example.preetumajorproject.AdminLogin
+ com.example.preetumajorproject.AdminLogin$1
+ com.example.preetumajorproject.AdminLogin$2
+ com.example.preetumajorproject.AdminLogin$2$1
+com/example/preetumajorproject/ui/LogoutFragment.java
+ com.example.preetumajorproject.ui.LogoutFragment
+com/example/preetumajorproject/BuildConfig.java
+ com.example.preetumajorproject.BuildConfig
+com/example/preetumajorproject/AdminDashbard.java
+ com.example.preetumajorproject.AdminDashbard
+ com.example.preetumajorproject.AdminDashbard$1
+com/example/preetumajorproject/ui/home/HomeFragment.java
+ com.example.preetumajorproject.ui.home.HomeFragment
+ com.example.preetumajorproject.ui.home.HomeFragment$1
+ com.example.preetumajorproject.ui.home.HomeFragment$2
+ com.example.preetumajorproject.ui.home.HomeFragment$3
+ com.example.preetumajorproject.ui.home.HomeFragment$4
+ com.example.preetumajorproject.ui.home.HomeFragment$5
+ com.example.preetumajorproject.ui.home.HomeFragment$6
+com/example/preetumajorproject/ui/MyProfileFragment.java
+ com.example.preetumajorproject.ui.MyProfileFragment
+com/example/preetumajorproject/ui/slideshow/SlideshowFragment.java
+ com.example.preetumajorproject.ui.slideshow.SlideshowFragment
