@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_baseline_dashboard"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_registration"
+            android:icon="@drawable/ic_baseline_registration"
+            android:title="@string/menu_registration" />
+        <item
+            android:id="@+id/nav_login"
+            android:icon="@drawable/ic_baseline_login"
+            android:title="@string/menu_login" />
+        <item
+            android:id="@+id/nav_addservices"
+            android:icon="@drawable/ic_baseline_addservice"
+            android:title="@string/menu_addservices" />
+        <item
+            android:id="@+id/nav_servicesmanagement"
+            android:icon="@drawable/ic_baseline_servicesmanagement"
+            android:title="@string/menu_servicesmanagement" />
+        <item
+            android:id="@+id/nav_myprofile"
+            android:icon="@drawable/ic_baselin_myprofile"
+            android:title="@string/menu_myprofile" />
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/ic_baseline_exit"
+            android:title="@string/menu_logout" />
+        <item
+            android:id="@+id/nav_changepassword"
+            android:icon="@drawable/ic_baseline_lock"
+            android:title="@string/menu_changepassword" />
+    </group>
+</menu>
